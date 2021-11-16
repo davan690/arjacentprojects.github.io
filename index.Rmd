@@ -1,0 +1,49 @@
+---
+title: "Home"
+subtitle: "Reclaimed timber and landscaping projects. we are a team of ecologically minded individuals using open science and small business to build a more sustainable economic future for our local communities."
+output: bookdown::gitbook
+site: bookdown::bookdown_site
+profileImage: "logo_v1BOXtrans.png"
+imagehead2: "ARJACENT Projects"
+image2test: "assets/imgs/logo/front_v1.png"
+thumbs2test: "assets/imgs/logo/back_v2.png"
+imagehead1: "Reclaimed Timber"
+image1test:  "images/MainImageFinal2.png"
+thumbs1test: "images/MainImageFinal2.png"
+imagehead3: "Custom Landscaping"
+image3test:  "images/MainImageFinal3-new.png"
+thumbs3test: "images/MainImageFinal3-new.png"
+imagehead4: "Gardening care"
+image4test:  "images/MainImageFinal1.png"
+thumbs4test: "images/MainImageFinal1.png"
+output_dir: "./docs/"
+# bibliography: [packages]
+---
+
+```{r message = FALSE, warning = FALSE, echo = FALSE}
+library(knitr)
+library(tidyverse)
+library(here)
+
+##add fonts package and graduate font
+# library(fonts)
+
+knitr::opts_chunk$set(message = FALSE,   #code messages suppressed
+                      warning = FALSE,   #warning messages suppressed
+                      echo = FALSE,   #no code meta-information given
+                      cache = FALSE) #nothing will change if this is left constant
+
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
+<br>
+<br>
+
+<center>Any enquires welcome!</centre>
+
+<center><i class="fa fa-envelope"></i> <a href="mailto:arjacentprojects@outlook.com">arjacentprojects@outlook.com<br/>
+<i class="fa fa-facebook"></i> <a href="https://www.facebook.com/arjacentprojects">arjacentprojects</a><br/>
+<i class="fa fa-instagram"></i> <a href="https://www.instagram.com/arjacentprojects/">arjacentprojects</a><br/></center>
