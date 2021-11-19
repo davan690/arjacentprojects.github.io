@@ -4,11 +4,11 @@ bookdown::html_document2:
    # highlight: tango
    fig_caption: yes    
    toc: no
-   toc_float: true
+   # toc_float: true
    code_folding: hide
    df_print: paged
    number_sections: false
-   css: assets/main.css
-   edit: https://github.com/davan690/RyansProjects/edit/Master/%s
-   download: ["pdf", "epub"]
+   css: assets/css/main.css
+   # edit: https://github.com/davan690/RyansProjects/edit/Master/%s
+   # download: ["pdf", "epub"]
    output_dir: "docs"
