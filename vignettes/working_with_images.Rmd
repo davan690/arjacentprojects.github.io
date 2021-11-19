@@ -1,0 +1,26 @@
+---
+title: "Working with images for html files"
+output: html_notebook
+---
+
+Working with images and generating web content from different image types and sizes has been a challenging aspect of working with this sort of website generation.
+
+## Web apps/software
+
+
+
+## Other software
+
+
+
+
+
+## R packages
+
+ImageMagic is accessed through a package called `imageMagic`. Working 
+
+```{r}
+# install
+# library(imag)
+```
+
