@@ -5,16 +5,16 @@ output: bookdown::gitbook
 site: bookdown::bookdown_site
 profileImage: "images/logo_v1BOXtrans.png"
 imagehead1: "Reclaimed Timber"
-image1test:  "images/imageNEW1.png"
+image1test:  "images/imageNEW1small.png"
 thumbs1test: "images/thumbs/thumbNEW1.png"
 imagehead2: "ARJACENT Projects"
 image2test: "assets/imgs/logo/front_v1.png"
 thumbs2test: "assets/imgs/logo/back_v2.png"
 imagehead3: "Custom Landscaping"
-image3test:  "images/imageNEW2.png"
+image3test:  "images/imageNEW2small.png"
 thumbs3test: "images/thumbs/thumbNEW2.png"
 imagehead4: "Gardening care"
-image4test:  "images/imageNEW3.png"
+image4test:  "images/imageNEW3small.png"
 thumbs4test: "images/thumbs/thumbNEW3.png"
 ---
 
@@ -29,7 +29,7 @@ library(here)
 knitr::opts_chunk$set(message = FALSE,   #code messages suppressed
                       warning = FALSE,   #warning messages suppressed
                       echo = FALSE,   #no code meta-information given
-                      cache = TRUE) #nothing will change if this is left constant
+                      cache = FALSE) #nothing will change if this is left constant
 
 #list packages
 # packages(.)
