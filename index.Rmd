@@ -12,12 +12,10 @@ image2test: "assets/imgs/logo/front_v1.png"
 thumbs2test: "assets/imgs/logo/back_v2.png"
 imagehead3: "Custom Landscaping"
 image3test:  "images/imageNEW2.png"
-thumbs3test: "images/imageNEW2.png"
+thumbs3test: "images/thumbs/thumbNEW2.png"
 imagehead4: "Gardening care"
 image4test:  "images/imageNEW3.png"
-thumbs4test: "images/imageNEW3.png"
-# output_dir: "./docs"
-# bibliography: [packages]
+thumbs4test: "images/thumbs/thumbNEW3.png"
 ---
 
 ```{r message = FALSE, warning = FALSE, echo = FALSE}
