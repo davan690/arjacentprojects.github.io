@@ -1,6 +1,6 @@
 
 # install package
 # install.packages("magick",  )
-# library(magick)
+library(magick)
 #check vignette for demos from package
 # vignette(magick)
