@@ -5,19 +5,17 @@ output: bookdown::gitbook
 site: bookdown::bookdown_site
 profileImage: "images/logo_v1BOXtrans.png"
 imagehead1: "Reclaimed Timber"
-image1test:  "images/imageNEW1.png"
+image1test:  "images/imageNEW1small.png"
 thumbs1test: "images/thumbs/thumbNEW1.png"
 imagehead2: "ARJACENT Projects"
 image2test: "assets/imgs/logo/front_v1.png"
 thumbs2test: "assets/imgs/logo/back_v2.png"
 imagehead3: "Custom Landscaping"
-image3test:  "images/imageNEW2.png"
-thumbs3test: "images/imageNEW2.png"
+image3test:  "images/imageNEW2small.png"
+thumbs3test: "images/thumbs/thumbNEW2.png"
 imagehead4: "Gardening care"
-image4test:  "images/imageNEW3.png"
-thumbs4test: "images/imageNEW3.png"
-# output_dir: "./docs"
-# bibliography: [packages]
+image4test:  "images/imageNEW3small.png"
+thumbs4test: "images/thumbs/thumbNEW3.png"
 ---
 
 ```{r message = FALSE, warning = FALSE, echo = FALSE}
