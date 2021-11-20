@@ -3,7 +3,7 @@ title: "Index"
 subtitle: "Reclaimed timber and landscaping projects. We are a team of ecologically minded individuals, using open science and small business to build a more sustainable economic future for our local communities."
 output: bookdown::gitbook
 site: bookdown::bookdown_site
-profileImage: "logo_v1BOXtrans.png"
+profileImage: "images/logo_v1BOXtrans.png"
 imagehead1: "Reclaimed Timber"
 image1test:  "images/imageNEW1.png"
 thumbs1test: "images/thumbs/thumbNEW1.png"
