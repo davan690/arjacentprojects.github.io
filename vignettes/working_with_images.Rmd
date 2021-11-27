@@ -5,6 +5,14 @@ output: html_notebook
 
 Working with images and generating web content from different image types and sizes has been a challenging aspect of working with this sort of website generation.
 
+## Image dimensions 
+
+### Size
+
+### Pixels
+
+### Scale
+
 ## Web apps/software
 
 
