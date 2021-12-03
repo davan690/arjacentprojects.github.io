@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "Arjacent Projects"
 subtitle: "Reclaimed timber and landscaping projects. We are a team of ecologically minded individuals, using open science and small business to build a more sustainable economic future for our local communities."
 output: bookdown::gitbook
 site: bookdown::bookdown_site
