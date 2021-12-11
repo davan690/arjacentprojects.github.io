@@ -15,7 +15,7 @@ image3test:  "assets/imgs/imageNEW2small.png"
 thumbs3test: "assets/imgs/thumbs/thumbNEW2.png"
 imagehead4: "Gardening care"
 image4test:  "assets/imgs/imageNEW3small.png"
-thumbs4test: "assets/imgs/thumbNEW3.png"
+thumbs4test: "assets/imgs/thumbs/thumbNEW3.png"
 ---
 
 ```{r message = FALSE, warning = FALSE, echo = FALSE}
